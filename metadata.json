@@ -1,0 +1,6 @@
+{
+  "name": "E-Commerce Sales & Customer Analytics Hub",
+  "description": "Interactive learning workspace and portfolio project hub for E-Commerce Sales & Customer Analytics, covering data cleaning, EDA, SQL, RFM segmentation, and KPI dashboards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
